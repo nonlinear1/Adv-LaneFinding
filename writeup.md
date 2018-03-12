@@ -28,7 +28,7 @@ The goals / steps of this project are the following:
 [image7]: ./roi_images/test5.jpg "Road ROIed output"
 [image8]: ./persp_images/test5.jpg "Road Perpestive Transformed"
 [image9]: ./window_images/test5.jpg "Lane Lines Detected"
-[image10]: ./frame_op/frame1.jpg "Final Lane"
+[image10]: ./frame_op/frame_1.jpg "Final Lane"
 [video1]: ./test_videos_output/project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
