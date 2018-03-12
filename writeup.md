@@ -173,7 +173,7 @@ The Distance of the vehicle with respect to the center is done by finding the X-
 
 The overlaying of the Radius of Curvature and Distance is performed in the function Curv_Rad_Text.
 The overlaying of the Lane segments encompassed between the detected left and right lanes is implemented in the function Pipline()
-Here is an example of my result on a test image:
+Here is an example of my result on one of the frames of the video:
 
 ![Final lane output][image10]
 
